@@ -1,13 +1,13 @@
-import './App.css';
-import PopupWithForm from './PopupWithForm';
-import ImagePopup from './ImagePopup';
-import { useState } from 'react';
-import Header from './Header';
-import Footer from './Footer';
-import Main from './Main';
+import "../App.css";
+import PopupWithForm from "./PopupWithForm";
+import ImagePopup from "./ImagePopup";
+import { useState } from "react";
+import Header from "./Header";
+import Footer from "./Footer";
+import Main from "./Main";
 
 function App() {
-  const [selectedCard, setSelectedCard] = useState("");
+  const [selectedCard, setSelectedCard] = useState("null");
 
   const [isEditProfilePopupOpen, setProfilePopupOpen] = useState(false);
   const [isAddPlacePopupOpen, setPlacePopupOpen] = useState(false);
@@ -17,11 +17,11 @@ function App() {
     <div className="page">
       <div className="root">
         <Header />
-        <Main 
-        handleEditProfileClick={setProfilePopupOpen}
-        handleAddPlaceClick={setPlacePopupOpen}
-        handleEditAvatarClick={setAvatarPopupOpen}
-        handleCardClick={setSelectedCard}
+        <Main
+          handleEditProfileClick={setProfilePopupOpen}
+          handleAddPlaceClick={setPlacePopupOpen}
+          handleEditAvatarClick={setAvatarPopupOpen}
+          handleCardClick={setSelectedCard}
         />
         <Footer />
         <PopupWithForm
@@ -40,7 +40,8 @@ function App() {
             className="popup__input popup__input_type_name"
             minLength={2}
             maxLength={40}
-            required />
+            required
+          />
           <span className="name-input-error popup__input-error" />
           <input
             id="ocupation-input"
@@ -50,7 +51,8 @@ function App() {
             className="popup__input popup__input_type_ocupation"
             minLength={2}
             maxLength={200}
-            required />
+            required
+          />
           <span className="ocupation-input-error popup__input-error" />
         </PopupWithForm>
         <PopupWithForm
@@ -100,11 +102,7 @@ function App() {
           />
           <span className="avatar-input-error popup__input-error" />
         </PopupWithForm>
-        <ImagePopup
-          card={selectedCard}
-          onClose={setSelectedCard}
-        >
-        </ImagePopup>
+        <ImagePopup card={selectedCard} onClose={setSelectedCard}></ImagePopup>
       </div>
     </div>
   );

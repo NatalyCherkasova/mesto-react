@@ -1,8 +1,7 @@
-import { useEffect } from 'react';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import profileAvatar from '../images/avatar.png';
 import avatarLoadBtn from '../images/big_pancil.svg';
-import api from './Api';
+import api from '../utils/Api';
 import Card from './Card';
 
 function Main(props) {
