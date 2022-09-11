@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.186de323.css",
+    "main.js": "/react-gh-pages/static/js/main.c6c23e76.js",
+    "static/media/avatar.png": "/react-gh-pages/static/media/avatar.993f3d93348c99403d38.png",
+    "static/media/inter-v11-cyrillic-500.woff": "/react-gh-pages/static/media/inter-v11-cyrillic-500.35529817e371b4cdbf01.woff",
+    "static/media/inter-v11-cyrillic-900.woff": "/react-gh-pages/static/media/inter-v11-cyrillic-900.e8504d5c7dc7e8b208fe.woff",
+    "static/media/inter-v11-cyrillic-regular.woff": "/react-gh-pages/static/media/inter-v11-cyrillic-regular.e154f2936e843fb5568c.woff",
+    "static/media/Logo.svg": "/react-gh-pages/static/media/Logo.bbe2a6eafac19c3d031c272c424875ca.svg",
+    "static/media/heart.svg": "/react-gh-pages/static/media/heart.1ad06e85f169668a1f36.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/basket.svg": "/react-gh-pages/static/media/basket.ce3b64935accf9b8212e.svg",
+    "static/media/heart_active.svg": "/react-gh-pages/static/media/heart_active.35948469632d0421d697.svg",
+    "static/media/Button_correct.svg": "/react-gh-pages/static/media/Button_correct.6c7bf05444b9793fdf6e.svg",
+    "static/media/big_pancil.svg": "/react-gh-pages/static/media/big_pancil.a086f758840ae814ecdece4799d2cf40.svg",
+    "static/media/Close_Icon.svg": "/react-gh-pages/static/media/Close_Icon.039f1f5203f653b4bacd.svg",
+    "static/media/Button_add.svg": "/react-gh-pages/static/media/Button_add.bed8c136e13907f5eefb.svg",
+    "main.186de323.css.map": "/react-gh-pages/static/css/main.186de323.css.map",
+    "main.c6c23e76.js.map": "/react-gh-pages/static/js/main.c6c23e76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.186de323.css",
+    "static/js/main.c6c23e76.js"
+  ]
+}
