@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.186de323.css",
-    "main.js": "/react-gh-pages/static/js/main.c6c23e76.js",
+    "main.css": "/react-gh-pages/static/css/main.f78efffe.css",
+    "main.js": "/react-gh-pages/static/js/main.cb7461b8.js",
     "static/media/avatar.png": "/react-gh-pages/static/media/avatar.993f3d93348c99403d38.png",
     "static/media/inter-v11-cyrillic-500.woff": "/react-gh-pages/static/media/inter-v11-cyrillic-500.35529817e371b4cdbf01.woff",
     "static/media/inter-v11-cyrillic-900.woff": "/react-gh-pages/static/media/inter-v11-cyrillic-900.e8504d5c7dc7e8b208fe.woff",
@@ -15,11 +15,11 @@
     "static/media/big_pancil.svg": "/react-gh-pages/static/media/big_pancil.a086f758840ae814ecdece4799d2cf40.svg",
     "static/media/Close_Icon.svg": "/react-gh-pages/static/media/Close_Icon.039f1f5203f653b4bacd.svg",
     "static/media/Button_add.svg": "/react-gh-pages/static/media/Button_add.bed8c136e13907f5eefb.svg",
-    "main.186de323.css.map": "/react-gh-pages/static/css/main.186de323.css.map",
-    "main.c6c23e76.js.map": "/react-gh-pages/static/js/main.c6c23e76.js.map"
+    "main.f78efffe.css.map": "/react-gh-pages/static/css/main.f78efffe.css.map",
+    "main.cb7461b8.js.map": "/react-gh-pages/static/js/main.cb7461b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.186de323.css",
-    "static/js/main.c6c23e76.js"
+    "static/css/main.f78efffe.css",
+    "static/js/main.cb7461b8.js"
   ]
 }
