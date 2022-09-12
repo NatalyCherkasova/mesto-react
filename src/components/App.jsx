@@ -7,7 +7,7 @@ import Footer from "./Footer";
 import Main from "./Main";
 
 function App() {
-  const [selectedCard, setSelectedCard] = useState("null");
+  const [selectedCard, setSelectedCard] = useState(null);
 
   const [isEditProfilePopupOpen, setProfilePopupOpen] = useState(false);
   const [isAddPlacePopupOpen, setPlacePopupOpen] = useState(false);
